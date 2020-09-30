@@ -16,7 +16,7 @@ This Project would help people take a better decision on choosing the best neigh
 neighborhoods in Scarborough city based on the distribution of various facilities in and around that
 neighborhood.
 
-### Dtaa Scource:
+### Data Scource:
 This project would use Four-square API as its prime data gathering source as it has a database of millions
 of places, especially their places API which provides the ability to perform location search, location sharing
 and details about a business.
